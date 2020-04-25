@@ -2,7 +2,7 @@
 Face mask detection using YOLOv3 on Google colab
 
 #### Photo
-![image](https://github.com/VictorLin000/YOLOv3_mask_detect/blob/master/Mask/demo/predictions.jpg)
+![image](https://github.com/VictorLin000/YOLOv3_mask_detect/blob/master/predictions.jpg)
 
 #### Video
 ![image](https://github.com/VictorLin000/YOLOv3_mask_detect/blob/master/Mask/demo/predictions3.gif)
