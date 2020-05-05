@@ -1,3 +1,0 @@
-*.weights filter=lfs diff=lfs merge=lfs -text
-*.74 filter=lfs diff=lfs merge=lfs -text
-*.jpg filter=lfs diff=lfs merge=lfs -text
