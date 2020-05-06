@@ -11,11 +11,11 @@ Face mask detection using YOLOv3 on Google colab
 ### Data
 1. [Mask_Dataset](https://drive.google.com/drive/folders/1aAXDTl5kMPKAHE08WKGP2PifIdc21-ZG?usp=sharing)
 
-   put Mask_Dataset into yolo directory (Mask/yolo)
+   put Mask_Dataset into yolo directory (/content/darknet/Mask/yolo)
 
 2. [weights](https://drive.google.com/drive/folders/16MsdDvPuF6CxFd0vW2VYya6e5cqZJjZI?usp=sharing)
 
-   put weights into weights directory
+   create weight directory, put weights into weights directory (/content/darknet/weights)
 
 ### Usage
 #### train
